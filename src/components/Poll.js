@@ -15,7 +15,7 @@ class Poll extends Component {
     fetch(`${URL_HOME}?poll=true&_sort=count&_order=desc`, { method: "GET" })
       .then(response => response.json())
       .then(json => {
-        console.log(json);
+        //console.log(json);
         this.setState({
           pollTeams: json
         });
