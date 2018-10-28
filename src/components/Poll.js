@@ -1,13 +1,13 @@
 import React, { Component } from "react";
 
-const URL_HOME = "http://localhost:3001/teams";
+const URL_HOME = "/teams";
 
 class Poll extends Component {
   constructor(props) {
     super(props);
 
     this.state = {
-      pollTeams: ""
+      pollTeams: []
     };
   }
 
@@ -26,16 +26,36 @@ class Poll extends Component {
     this.fetchPoll();
   }
 
+  addCount(count, id) {
+    fetch(`${URL_HOME}/${id}`, {
+      method: "PATCH",
+      headers: {
+        Accept: "application/json",
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({ count: count + 1 })
+    }).then(() => {
+      this.fetchPoll();
+    });
+  }
+
   renderPoll = () => {
-    if (this.state.pollTeams) {
-      return this.state.pollTeams.map(teams => {
-        return (
-          <div key={teams.id} className="poll_item">
-            <img alt={teams.name} src={`/images/teams/${teams.logo}`} />
-          </div>
-        );
-      });
-    }
+    const position = ["1ST", "2ND", "3RD"];
+    return this.state.pollTeams.map((teams, index) => {
+      return (
+        <div
+          key={teams.id}
+          className="poll_item"
+          onClick={() => {
+            this.addCount(teams.count, teams.id);
+          }}
+        >
+          <img alt={teams.name} src={`/images/teams/${teams.logo}`} />
+          <h4>{position[index]}</h4>
+          <div>{teams.count} Votes</div>
+        </div>
+      );
+    });
   };
 
   render() {

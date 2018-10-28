@@ -212,3 +212,107 @@ footer {
     opacity: 0;
     transition: all 500ms ease-in-out;
 }
+
+/*========================
+         Poll
+=========================*/
+
+.home_poll {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.poll_container {
+    display: flex;
+    display: -webkit-flex;
+    display: -ms-flex;
+}
+
+.poll_container .poll_item {
+    padding: 20px;
+    flex-grow: 1;
+}
+
+.poll_container .poll_item img{
+    width: 80%;
+}
+
+.poll_container .poll_item div {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 18px;
+}
+
+/*========================
+         Poll
+=========================*/
+
+
+
+.fade-enter {
+    opacity: 0.01;
+}
+
+.fade-enter-active {
+    opacity: 1;
+    transition: opacity 500ms ease-in;
+}
+
+.fade-exit {
+    opacity: 1;
+}
+
+.fade-exit-active {
+    opacity: 0.01;
+    transition: opacity 500ms ease-in;
+}
+
+
+/*========================
+         Teams
+=========================*/
+
+.teams_component {
+    min-height: 800px;
+}
+.teams_input {
+    text-align: center;
+    padding: 20px 0;
+    background: #e6e6e6;
+}
+.teams_input input {
+    font-family: 'Roboto';
+    border-radius: 30px;
+    border: 1px solid lightgray;
+    color: black;
+    font-size:20px;
+    padding: 10px;
+    font-weight: 300;
+    text-align: center;
+}
+
+.teams_input input:focus {
+    outline: none;
+}
+
+.teams_container div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.teams_container div .team_item {
+    width: 20%;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+.teams_container .team_item img {
+    width: 100%;
+}
+
+
+
+
+
+

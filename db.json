@@ -130,7 +130,7 @@
   "teams": [
     {
       "id": 1,
-      "name": "Hawks",
+      "name": "Atlanta Hawks",
       "logo": "hawks.png",
       "poll": "false",
       "count": 0,
@@ -203,7 +203,7 @@
     },
     {
       "id": 2,
-      "name": "Celtics",
+      "name": "Boston Celtics",
       "logo": "celtics.png",
       "poll": "false",
       "count": 0,
@@ -276,7 +276,7 @@
     },
     {
       "id": 3,
-      "name": "Nets",
+      "name": "New York Nets",
       "logo": "nets.png",
       "poll": "false",
       "count": 0,
@@ -349,7 +349,7 @@
     },
     {
       "id": 4,
-      "name": "Hornets",
+      "name": "Charlotte_Hornets",
       "logo": "hornets.png",
       "poll": "false",
       "count": 0,
@@ -422,7 +422,7 @@
     },
     {
       "id": 5,
-      "name": "Bulls",
+      "name": "Chicago_Bulls",
       "logo": "bulls.png",
       "poll": "false",
       "count": 0,
@@ -495,10 +495,10 @@
     },
     {
       "id": 6,
-      "name": "Cavaliers",
+      "name": "Cleveland_Cavaliers",
       "logo": "cavaliers.png",
       "poll": "true",
-      "count": 2365,
+      "count": 2367,
       "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
       "squad": [
         {
@@ -568,7 +568,7 @@
     },
     {
       "id": 7,
-      "name": "Mavericks",
+      "name": "Dallas_Mavericks",
       "logo": "mavericks.png",
       "poll": "false",
       "count": 0,
@@ -641,7 +641,7 @@
     },
     {
       "id": 8,
-      "name": "Nuggets",
+      "name": "Denver_Nuggets",
       "logo": "nuggets.png",
       "poll": "false",
       "count": 0,
@@ -714,7 +714,7 @@
     },
     {
       "id": 9,
-      "name": "Pistons",
+      "name": "Detroit_Pistons",
       "logo": "pistons.png",
       "poll": "false",
       "count": 0,
@@ -787,10 +787,10 @@
     },
     {
       "id": 10,
-      "name": "Warriors",
+      "name": "Golden_State_Warriors",
       "logo": "warriors.png",
       "poll": "true",
-      "count": 2365,
+      "count": 2366,
       "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
       "squad": [
         {
@@ -860,7 +860,7 @@
     },
     {
       "id": 11,
-      "name": "Rockets",
+      "name": "Houston_Rockets",
       "logo": "rockets.png",
       "poll": "false",
       "count": 0,
@@ -933,7 +933,7 @@
     },
     {
       "id": 12,
-      "name": "Pacers",
+      "name": "Indiana_Pacers",
       "logo": "pacers.png",
       "poll": "false",
       "count": 0,
@@ -1006,7 +1006,7 @@
     },
     {
       "id": 13,
-      "name": "Clippers",
+      "name": "LA Clippers",
       "logo": "clippers.png",
       "poll": "false",
       "count": 0,
@@ -1079,7 +1079,7 @@
     },
     {
       "id": 14,
-      "name": "Lakers",
+      "name": "Los_Angeles_Lakers",
       "logo": "lakers.png",
       "poll": "false",
       "count": 0,
@@ -1152,7 +1152,7 @@
     },
     {
       "id": 15,
-      "name": "Grizzlies",
+      "name": "Memphis_Grizzlies",
       "logo": "grizzlies.png",
       "poll": "false",
       "count": 0,
@@ -1225,7 +1225,7 @@
     },
     {
       "id": 16,
-      "name": "Heat",
+      "name": "Miami_Heat",
       "logo": "heat.png",
       "poll": "false",
       "count": 0,
@@ -1298,7 +1298,7 @@
     },
     {
       "id": 17,
-      "name": "Bucks",
+      "name": "Milwaukee_Bucks",
       "logo": "bucks.png",
       "poll": "false",
       "count": 0,
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 18,
-      "name": "Timberwolves",
+      "name": "Minnesota_Timberwolves",
       "logo": "timberwolves.png",
       "poll": "false",
       "count": 0,
@@ -1444,7 +1444,7 @@
     },
     {
       "id": 19,
-      "name": "Pelicans",
+      "name": "New_Orleans_Pelicans",
       "logo": "pelicans.png",
       "poll": "false",
       "count": 0,
@@ -1517,10 +1517,10 @@
     },
     {
       "id": 20,
-      "name": "knicks",
+      "name": "New_York_knicks",
       "logo": "knicks.png",
       "poll": "true",
-      "count": 13,
+      "count": 14,
       "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
       "squad": [
         {
@@ -1590,7 +1590,7 @@
     },
     {
       "id": 21,
-      "name": "Thunder",
+      "name": "Oklahoma_City_Thunder",
       "logo": "thunder.png",
       "poll": "false",
       "count": 0,
@@ -1663,7 +1663,7 @@
     },
     {
       "id": 22,
-      "name": "Magic",
+      "name": "Orlando_Magic",
       "logo": "magic.png",
       "poll": "false",
       "count": 0,
@@ -1736,7 +1736,7 @@
     },
     {
       "id": 23,
-      "name": "76ers",
+      "name": "Philadelphia_76ers",
       "logo": "76ers.png",
       "poll": "false",
       "count": 0,
@@ -1809,7 +1809,7 @@
     },
     {
       "id": 24,
-      "name": "Spurs",
+      "name": "San_Antonio_Spurs",
       "logo": "spurs.png",
       "poll": "false",
       "count": 0,
@@ -1882,7 +1882,7 @@
     },
     {
       "id": 25,
-      "name": "Suns",
+      "name": "Phoenix_Suns",
       "logo": "suns.png",
       "poll": "false",
       "count": 0,
@@ -1955,7 +1955,7 @@
     },
     {
       "id": 26,
-      "name": "Kings",
+      "name": "Sacramento_Kings",
       "logo": "kings.png",
       "poll": "false",
       "count": 0,
@@ -2028,7 +2028,7 @@
     },
     {
       "id": 27,
-      "name": "Raptors",
+      "name": "Toronto_Raptors",
       "logo": "raptors.png",
       "poll": "false",
       "count": 0,
@@ -2101,7 +2101,7 @@
     },
     {
       "id": 28,
-      "name": "Jazz",
+      "name": "Utah_Jazz",
       "logo": "jazz.png",
       "poll": "false",
       "count": 0,
@@ -2174,7 +2174,7 @@
     },
     {
       "id": 29,
-      "name": "Blazers",
+      "name": "Portland_Trail_Blazers",
       "logo": "blazers.png",
       "poll": "false",
       "count": 0,
