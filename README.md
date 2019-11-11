@@ -1,4 +1,4 @@
-# NBA Basketball highlihts sample
+# NBA Basketball highlights sample
 
 ## Getting Started
 
